@@ -13,6 +13,3 @@ console.log(carMakers.map((car: string):string => {
 
 // flexible types //
 const importantDates = [new Date(), '2030-10-10'];
-
-
-const carTuple: string() 
